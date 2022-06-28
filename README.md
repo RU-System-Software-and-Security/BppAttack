@@ -1,5 +1,8 @@
 # BppAttack
 
+# Environment
+see requirements.txt
+
 # Run
 ```bash
 python -u bppattack.py --dataset cifar10 --attack_mode all2one --squeeze_num 32
