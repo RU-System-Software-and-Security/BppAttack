@@ -1,7 +1,7 @@
 # BppAttack
 
 # Environment
-see requirements.txt
+See requirements.txt
 
 # Run
 ```bash
