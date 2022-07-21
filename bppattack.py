@@ -524,7 +524,7 @@ def main():
             for i in range(residual.shape[0]):
                 residual_list_train.append(residual[i].unsqueeze(0).cuda())
                 count = count + 1
-    print(count)
+    #print(count)
     
     residual_list_test = []
     count = 0
